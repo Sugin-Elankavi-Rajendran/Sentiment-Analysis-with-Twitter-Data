@@ -26,7 +26,7 @@ python sentiment_analysis.py
 
 The script performs the following tasks:
 
-1. ** Loading Data:** Reads the Twitter data from the specified CSV file into a Pandas DataFrame.
+1. **Loading Data:** Reads the Twitter data from the specified CSV file into a Pandas DataFrame.
 ```bash
 df = pd.read_csv(file_path, header=None, names=['ID', 'Brand', 'Sentiment', 'Text'])
 ```
