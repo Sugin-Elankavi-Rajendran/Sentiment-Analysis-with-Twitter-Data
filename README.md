@@ -72,3 +72,7 @@ plt.ylabel('Frequency')
 plt.show()
 ```
 ![Example Image](https://github.com/sugin22/Sentiment-Analysis-with-Twitter-Data/blob/main/Figure_1.png)
+
+![Example Image](https://github.com/sugin22/Sentiment-Analysis-with-Twitter-Data/blob/main/Figure_2.png)
+
+![Example Image](https://github.com/sugin22/Sentiment-Analysis-with-Twitter-Data/blob/main/Figure_3.png)
